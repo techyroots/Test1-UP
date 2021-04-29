@@ -8,6 +8,6 @@ Test_1_UP contract is the ERC20 Token.
 
 Test_1_UP_Auction is the Auction contract.
 
-Test_1_UP_LTD Collect limited edition NFTs from Test_1_UP_Limited.
+Test_1_UP_LTD Collect limited edition from Test_1_UP_Limited.
 
 
